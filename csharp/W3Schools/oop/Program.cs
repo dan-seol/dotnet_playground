@@ -6,6 +6,14 @@ namespace Oop {
 
             veggie.promote();
             rhubarb.promote();
+
+            Meat liver = new Liver();
+            Protein chickenBreast = new ChickenBreast();
+            PlantBasedProtein tofu = new Tofu();
+
+            liver.offer();
+            chickenBreast.offer();
+            tofu.offer();
         }
     }
 }

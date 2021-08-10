@@ -8,25 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/danseol/.nuget/packages/": {}
+    "C:\\Users\\yunhe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/Oop.csproj",
+      "projectUniqueName": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\W3Schools\\oop\\Oop.csproj",
       "projectName": "Oop",
-      "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/Oop.csproj",
-      "packagesPath": "/home/danseol/.nuget/packages/",
-      "outputPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/",
+      "projectPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\W3Schools\\oop\\Oop.csproj",
+      "packagesPath": "C:\\Users\\yunhe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\W3Schools\\oop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/danseol/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\yunhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp5.0"
+        "net5.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net5.0": {
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
