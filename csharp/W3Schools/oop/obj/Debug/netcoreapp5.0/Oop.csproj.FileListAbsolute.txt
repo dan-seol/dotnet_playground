@@ -1,0 +1,16 @@
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/Debug/netcoreapp5.0/Oop.csproj.AssemblyReference.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/Debug/netcoreapp5.0/Oop.GeneratedMSBuildEditorConfig.editorconfig
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/Debug/netcoreapp5.0/Oop.AssemblyInfoInputs.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/Debug/netcoreapp5.0/Oop.AssemblyInfo.cs
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/Debug/netcoreapp5.0/Oop.csproj.CoreCompileInputs.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/bin/Debug/netcoreapp5.0/Oop
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/bin/Debug/netcoreapp5.0/Oop.deps.json
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/bin/Debug/netcoreapp5.0/Oop.runtimeconfig.json
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/bin/Debug/netcoreapp5.0/Oop.runtimeconfig.dev.json
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/bin/Debug/netcoreapp5.0/Oop.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/bin/Debug/netcoreapp5.0/ref/Oop.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/bin/Debug/netcoreapp5.0/Oop.pdb
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/Debug/netcoreapp5.0/Oop.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/Debug/netcoreapp5.0/ref/Oop.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/Debug/netcoreapp5.0/Oop.pdb
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/oop/obj/Debug/netcoreapp5.0/Oop.genruntimeconfig.cache

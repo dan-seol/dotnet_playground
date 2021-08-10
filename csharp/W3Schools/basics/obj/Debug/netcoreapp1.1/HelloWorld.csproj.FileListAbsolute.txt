@@ -1,0 +1,12 @@
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/bin/Debug/netcoreapp1.1/HelloWorld.deps.json
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/bin/Debug/netcoreapp1.1/HelloWorld.runtimeconfig.json
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/bin/Debug/netcoreapp1.1/HelloWorld.runtimeconfig.dev.json
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/bin/Debug/netcoreapp1.1/HelloWorld.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/bin/Debug/netcoreapp1.1/HelloWorld.pdb
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/obj/Debug/netcoreapp1.1/HelloWorld.csproj.AssemblyReference.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/obj/Debug/netcoreapp1.1/HelloWorld.AssemblyInfoInputs.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/obj/Debug/netcoreapp1.1/HelloWorld.AssemblyInfo.cs
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/obj/Debug/netcoreapp1.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/obj/Debug/netcoreapp1.1/HelloWorld.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/obj/Debug/netcoreapp1.1/HelloWorld.pdb
+/home/danseol/Documents/Github/dotnet_playground/csharp/W3Schools/obj/Debug/netcoreapp1.1/HelloWorld.genruntimeconfig.cache

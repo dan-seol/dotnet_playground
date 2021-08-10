@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/danseol/.dotnet/store/|arch|/|tfm|",
+      "/home/danseol/.nuget/packages"
+    ]
+  }
+}
