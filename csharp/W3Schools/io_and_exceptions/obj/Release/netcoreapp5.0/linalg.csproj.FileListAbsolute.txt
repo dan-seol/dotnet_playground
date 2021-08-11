@@ -1,0 +1,15 @@
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\obj\Release\netcoreapp5.0\linalg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\obj\Release\netcoreapp5.0\linalg.AssemblyInfoInputs.cache
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\obj\Release\netcoreapp5.0\linalg.AssemblyInfo.cs
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\obj\Release\netcoreapp5.0\linalg.csproj.CoreCompileInputs.cache
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\bin\Release\netcoreapp5.0\linalg.exe
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\bin\Release\netcoreapp5.0\linalg.deps.json
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\bin\Release\netcoreapp5.0\linalg.runtimeconfig.json
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\bin\Release\netcoreapp5.0\linalg.runtimeconfig.dev.json
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\bin\Release\netcoreapp5.0\linalg.dll
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\bin\Release\netcoreapp5.0\ref\linalg.dll
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\bin\Release\netcoreapp5.0\linalg.pdb
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\obj\Release\netcoreapp5.0\linalg.dll
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\obj\Release\netcoreapp5.0\ref\linalg.dll
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\obj\Release\netcoreapp5.0\linalg.pdb
+C:\Users\yunhe\dotnet_playground\csharp\W3Schools\io_and_exceptions\obj\Release\netcoreapp5.0\linalg.genruntimeconfig.cache
