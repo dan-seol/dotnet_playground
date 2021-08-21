@@ -1,0 +1,15 @@
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache

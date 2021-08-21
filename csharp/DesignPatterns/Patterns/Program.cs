@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Patterns
 {
@@ -52,15 +53,15 @@ namespace Patterns
 
              }*/
 
-       /*     Rectangle rc = new Rectangle(2, 3);
-            Console.WriteLine($"{rc} has area {Area(rc)}");
-            
-            //Square sq = new Square();
-            Rectangle sq = new Square(); //- Liskov : upcasting shouldn't change the behavior, but it does.
-            sq.Width = 4;
-            Console.WriteLine($"{sq} has area {Area(sq)}");*/
+            /*     Rectangle rc = new Rectangle(2, 3);
+                 Console.WriteLine($"{rc} has area {Area(rc)}");
 
-            var parent = new Person { Name = "John" };
+                 //Square sq = new Square();
+                 Rectangle sq = new Square(); //- Liskov : upcasting shouldn't change the behavior, but it does.
+                 sq.Width = 4;
+                 Console.WriteLine($"{sq} has area {Area(sq)}");*/
+
+            /*var parent = new Person { Name = "John" };
             var child1 = new Person { Name = "Chris" };
             var child2 = new Person { Name = "Mary" };
 
@@ -68,9 +69,9 @@ namespace Patterns
             relationships.AddParentAndChild(parent, child1);
             relationships.AddParentAndChild(parent, child2);
 
-            new Research(relationships);
+            new Research(relationships);*/
 
-        }
+        }   
         public static int Area(Rectangle r) => r.Width * r.Height;
     }
 }
