@@ -1,0 +1,12 @@
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/bin/Debug/net5.0/PrimeService.deps.json
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/bin/Debug/net5.0/PrimeService.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/bin/Debug/net5.0/ref/PrimeService.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/bin/Debug/net5.0/PrimeService.pdb
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/obj/Debug/net5.0/PrimeService.csproj.AssemblyReference.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/obj/Debug/net5.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/obj/Debug/net5.0/PrimeService.AssemblyInfoInputs.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/obj/Debug/net5.0/PrimeService.AssemblyInfo.cs
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/obj/Debug/net5.0/PrimeService.csproj.CoreCompileInputs.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/obj/Debug/net5.0/PrimeService.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/obj/Debug/net5.0/ref/PrimeService.dll
+/home/danseol/Documents/Github/dotnet_playground/csharp/unit-testing-using-nunit/PrimeService/obj/Debug/net5.0/PrimeService.pdb

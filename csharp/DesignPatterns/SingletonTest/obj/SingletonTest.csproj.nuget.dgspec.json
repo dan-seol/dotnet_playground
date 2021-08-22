@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj": {}
+  },
+  "projects": {
+    "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj",
+        "projectName": "Singleton",
+        "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj",
+        "packagesPath": "/home/danseol/.nuget/packages/",
+        "outputPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/danseol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj",
+        "projectName": "SingletonTest",
+        "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj",
+        "packagesPath": "/home/danseol/.nuget/packages/",
+        "outputPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/danseol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj": {
+                "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

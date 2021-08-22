@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eWN2/9UyH9leg/z+naWv5AzHjUqs1gBbPghoMcLkmsowT95m1YG1+X02tiF8tHk/gX9dSEBmDkwyeCkAEX1BYQ==",
+  "dgSpecHash": "olHf1eGBLA6B5QZ1NHzLLFG1pyPY6ZYSgXjRF8Rva25fxJT9Vvg/8m9c/ODIDONp6LoRUp/VeF+VgBReNLllgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj",
+  "projectFilePath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/Prototype.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

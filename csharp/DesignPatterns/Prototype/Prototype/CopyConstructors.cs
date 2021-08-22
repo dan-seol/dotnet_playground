@@ -27,8 +27,10 @@ namespace Prototype
 
         public PersonOne(PersonOne other)
         {
-            Names = other.Names;
+            //Names = other.Names;
             //Address = other.Address;             // not sufficient as this is a shallow copy
+            Names = new string[other.Names.Length];
+            Array.Copy(other.Names, Names, other.Names.Length);
             Address = new AddressOne(other.Address);
 
         }

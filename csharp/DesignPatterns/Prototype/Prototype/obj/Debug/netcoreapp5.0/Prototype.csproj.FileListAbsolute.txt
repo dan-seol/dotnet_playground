@@ -1,0 +1,5 @@
+/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/obj/Debug/netcoreapp5.0/Prototype.csproj.AssemblyReference.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/obj/Debug/netcoreapp5.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/obj/Debug/netcoreapp5.0/Prototype.AssemblyInfoInputs.cache
+/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/obj/Debug/netcoreapp5.0/Prototype.AssemblyInfo.cs
+/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/obj/Debug/netcoreapp5.0/Prototype.csproj.CoreCompileInputs.cache

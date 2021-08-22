@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj": {}
+    "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/Prototype.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj": {
+    "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj",
+        "projectUniqueName": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/Prototype.csproj",
         "projectName": "Prototype",
-        "projectPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj",
-        "packagesPath": "C:\\Users\\yunhe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Prototype\\Prototype\\obj\\",
+        "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/Prototype.csproj",
+        "packagesPath": "/home/danseol/.nuget/packages/",
+        "outputPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Prototype/Prototype/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yunhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/danseol/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
