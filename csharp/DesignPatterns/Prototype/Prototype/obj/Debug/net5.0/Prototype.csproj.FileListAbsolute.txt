@@ -1,0 +1,16 @@
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\Users\yunhe\dotnet_playground\csharp\DesignPatterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
