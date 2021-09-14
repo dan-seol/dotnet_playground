@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5S4EOVSiRlHFsu2Al6sV//uB/j0iIVR1ViFrkfOzO9p7AKrrJoNYYZtF0wcyKt28b38Ld7Iru4iHxocpFvuL6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Composite\\Composite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yunhe\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\yunhe\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\yunhe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

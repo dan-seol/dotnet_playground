@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Orrn5OUXw6Hpq0p+vcNNmrZ2oDsBfXw4nc+Qtp8/R6YFpzM9hrLXiMYeydiplzAt2YA39mGyqd5NlnmfWow7IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Decorator\\Decorator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yunhe\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\yunhe\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\yunhe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

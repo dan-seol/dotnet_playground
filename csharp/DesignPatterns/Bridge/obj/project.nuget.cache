@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbvkeuxG5bg4O2fe8BoJwo7wgzAcDJ5Q0d1qA8FiQC2SqbAPnsI9ZMIw7Foh1KfOfkqNzcpWunwGFO/tEpqnqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Bridge\\Bridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yunhe\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\yunhe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
