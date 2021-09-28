@@ -1,95 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj": {}
+    "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\SingletonTest\\SingletonTest.csproj": {}
   },
   "projects": {
-    "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj": {
+    "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\SingletonTest\\SingletonTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj",
-        "projectName": "Singleton",
-        "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj",
-        "packagesPath": "/home/danseol/.nuget/packages/",
-        "outputPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/home/danseol/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "dependencies": {
-            "Autofac": {
-              "target": "Package",
-              "version": "[6.2.0, )"
-            },
-            "morelinq": {
-              "target": "Package",
-              "version": "[3.3.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj",
+        "projectUniqueName": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\SingletonTest\\SingletonTest.csproj",
         "projectName": "SingletonTest",
-        "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj",
-        "packagesPath": "/home/danseol/.nuget/packages/",
-        "outputPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/obj/",
+        "projectPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\SingletonTest\\SingletonTest.csproj",
+        "packagesPath": "C:\\Users\\yunhe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\SingletonTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/danseol/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yunhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj": {
-                "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj"
+              "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Singleton\\Singleton.csproj": {
+                "projectPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Singleton\\Singleton.csproj"
               }
             }
           }
@@ -140,7 +80,71 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Singleton\\Singleton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Singleton\\Singleton.csproj",
+        "projectName": "Singleton",
+        "projectPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Singleton\\Singleton.csproj",
+        "packagesPath": "C:\\Users\\yunhe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Singleton\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yunhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "H5M0kEuf0Yj3P/6ZugyMI7XACEdUZLopgORCw+kNbStyxEnPxFE62MSa2ZrrzcOf6uPhQf6pgsSjhJbyMmaw1Q==",
+  "dgSpecHash": "43fbVrjbjGs/waC7x+au2JTg4WQFDja7jVoYroT/+P07KXMJfH0I20ewPSjUG7UQBkU9wOUEuqaWObIg7f562Q==",
   "success": true,
-  "projectFilePath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj",
+  "projectFilePath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [
-    "/home/danseol/.nuget/packages/autofac/6.2.0/autofac.6.2.0.nupkg.sha512",
-    "/home/danseol/.nuget/packages/morelinq/3.3.2/morelinq.3.3.2.nupkg.sha512",
-    "/home/danseol/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\yunhe\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\yunhe\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\yunhe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

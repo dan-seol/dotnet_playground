@@ -5072,32 +5072,34 @@
     ]
   },
   "packageFolders": {
-    "/home/danseol/.nuget/packages/": {}
+    "C:\\Users\\yunhe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj",
+      "projectUniqueName": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\SingletonTest\\SingletonTest.csproj",
       "projectName": "SingletonTest",
-      "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/SingletonTest.csproj",
-      "packagesPath": "/home/danseol/.nuget/packages/",
-      "outputPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/SingletonTest/obj/",
+      "projectPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\SingletonTest\\SingletonTest.csproj",
+      "packagesPath": "C:\\Users\\yunhe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\SingletonTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/danseol/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\yunhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj": {
-              "projectPath": "/home/danseol/Documents/Github/dotnet_playground/csharp/DesignPatterns/Singleton/Singleton.csproj"
+            "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Singleton\\Singleton.csproj": {
+              "projectPath": "C:\\Users\\yunhe\\dotnet_playground\\csharp\\DesignPatterns\\Singleton\\Singleton.csproj"
             }
           }
         }
@@ -5148,7 +5150,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
